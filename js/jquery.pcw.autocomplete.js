@@ -41,7 +41,7 @@
             addressFinishClass: 'pcw-result',
             browseText: 'Enter the Organisation or Premise',
             searchText: 'Enter a postcode, street or address',
-            returnToSearchBtn: '<button class="btn tip hide btn-info" title="Back to previous results"><i class="icon-chevron-left icon-white"></i></button>',
+            returnToSearchBtn: '<button class="btn tip hide btn-info" title="Back to previous results"><i class="fa fa-chevron-left"></i></button>',
             jsonCallback: 'jsonCallback',
 
             /**********************************
